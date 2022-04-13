@@ -1,0 +1,44 @@
+{
+  "name": "mdb-react-template",
+  "version": "2.3.0",
+  "description": "template for mdb-react-ui-kit",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cors": "^2.8.5",
+    "mdb-react-ui-kit": "^2.3.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-router": "^6.2.1",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "4.0.1",
+    "react-toastify": "^8.1.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "template",
+    "react"
+  ],
+  "author": "MDBootstrap",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

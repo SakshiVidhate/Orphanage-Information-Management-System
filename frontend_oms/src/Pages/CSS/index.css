@@ -1,0 +1,76 @@
+.headimg {
+    align-items: center;
+    width: 100%;
+    height: 600px;
+}
+.cards{
+    
+    align-items: center;
+    width: 40rem;
+    height: 20rem;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+}
+.btn {
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+#introo1 {
+    background-image: url('../../images/template_12.jpg');
+    height: 100vh;
+}
+#introoo1 {
+    background-image: url('../../images/template_11.jpg');
+    height: 100vh;
+}
+.mapouter {
+    position:relative;
+    text-align:center;
+    height:300px;width:100%;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:300px;width:100%;
+}
+.mask-custom {
+    backdrop-filter: blur(1px);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.mask{
+    background-color: rgba(0, 0, 0, 0.2);
+    
+}
+#homedata{
+
+    background-image: url('https://www.tidyverse.org/blog/2019/05/dplyr-0-8-1/dplyr-0-8-1-wd.jpg');
+}
+
+.col-3 {
+    box-shadow:0 0 0 1px rgba(14,41,57,0.12),0 2px 5px rgba(14,41,57,0.44),inset 0 -1px 2px rgba(14,41,57,0.15);
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: ghostwhite;
+}
+#backdata {
+    background-image: linear-gradient(to right,#F48FB1, #D81B60,#880E4F );
+}
+#backdata2 {
+    background-image: linear-gradient(to right,#80DEEA, #304FFE,#1A237E );   
+}
+#backdata3 {
+    background-image: linear-gradient(to right,#FFECB3, #FFC107,#E65100 );   
+}
+#backdata1 {
+    background-image: linear-gradient(to left,#FFFFFF,#CFD8DC);   
+}
+#backdata0 {
+    background-image: linear-gradient(to left,#FFFFFF,#fffddd);   
+}
+#databac {
+    width: 185px;
+}
